@@ -1,6 +1,6 @@
 ## About me...
 
-I am a mechatronics engineering student studying at **The University of Queensland**, Australia. I have worked in robotics for one year now on a project developing a controller software stack for the [ExoMotus](https://www.fftai.com/exomotus-m4-2/) exoskeleton robot.
+I am a mechatronics engineering student studying at **The University of Queensland**, Australia. I have worked in robotics for one year now, developing a controller software stack for the [ExoMotus](https://www.fftai.com/exomotus-m4-2/) exoskeleton robot.
 
 In completing my undergrad degree, I will study for a semester in an exchange program with the **Technical University of Munich**, Germany, and explore the European continent before deciding whether to continue with a doctorate or look into industry practice.
 
