@@ -5,7 +5,7 @@
 - 🤖 Experience with the [Robot Operating System (2)](https://docs.ros.org/en/foxy/index.html) and many of the popular packages in the ROS ecosystem
 - 🤝 Led the integration of ROS with the [CAN Open Robot Controller](https://github.com/UniMelbHumanRoboticsLab/CANOpenRobotController) framework
 
-In completing my undergrad degree, I will study for a semester in an exchange program at the **Technical University of Munich**, Germany. During that time, I hope to explore Europe and its robotics industry before deciding whether to begin graduate work or continue my studies with a doctorate degree.
+In completing my undergrad degree, I will study for a semester in an exchange program at the **Technical University of Munich**, Germany. During that time, I hope to explore Europe and its robotics industry before deciding whether to begin graduate work or continue my studies into a doctorate degree.
 
 ## My interests...
 
