@@ -13,6 +13,7 @@ In completing my undergrad degree, I will study for a semester in an exchange pr
 - Machine learning (e.g., CNN)
 - Control theory in robotics
 - Reading dystopian books
+- Personalising my Linux and Neovim environment
 - Travelling overseas such as to Japan and Germany
 
 I have also developed a collection of minimalistic C++ robotics libraries for many of my personal projects. Check them out here at [benvonh.github.io](https://benvonh.github.io/index.html).
