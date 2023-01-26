@@ -12,7 +12,7 @@ In completing my undergrad degree, I will study for a semester in an exchange pr
 - 💻 Programming in C/C++
 - 🧠 Machine learning (CNN)
 - 📚 Reading dystopian books
-- 🖥️ Ricing my Linux desktop environment
+- 🖥️ Ricing my Arch Linux and Neovim config
 - ✈️ Travelling overseas such as to Japan and Germany
 
 I have also developed a collection of minimalistic C++ robotics libraries. If you woudl like, you can check them out here at [benvonh.github.io](https://benvonh.github.io/index.html).
