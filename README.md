@@ -14,12 +14,12 @@ During this time, I hope to explore the robotics industry in Europe and discover
 
 ## My interests...
 
-- 💻 Programming in C/C++ (Python if I'm feeling lazy)
+- 💻 Programming in C/C++
 
 - 🧠 Machine learning & neural networks
 
-- 🖥️ Linux ricing (NixOS btw)
+- 🖥️ Linux customisation (NixOS user)
 
-- ✈️ Travelling abroad if I have money
+- ✈️ Travelling overseas
 
-I am also developing a collection of minimal C++ robotics libraries for easy integration with smaller-sized projects. Check them out here (TODO) if you would like.
+I am also developing a collection of minimal C++ robotics libraries with ROS2 compatibility. If you would like, you can check them out here (TODO).
