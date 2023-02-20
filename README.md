@@ -18,7 +18,7 @@ During this time, I hope to explore the robotics industry in Europe and discover
 
 - 🧠 Machine learning & neural networks
 
-- 🖥️ Linux customisation (NixOS user)
+- 🖥️ Linux customisation
 
 - ✈️ Travelling overseas
 
