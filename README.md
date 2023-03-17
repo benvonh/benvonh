@@ -6,7 +6,7 @@
 
 - 🤖 **[Robot Operating System 2](https://docs.ros.org/en/foxy/index.html)** enthusiast
 
-- 🤝 Integrator of ROS2 in the **[CAN Open Robot Controller](https://github.com/UniMelbHumanRoboticsLab/CANOpenRobotController)** stack
+- 🤝 Instigator for implementing ROS2 in the **[CAN Open Robot Controller](https://github.com/UniMelbHumanRoboticsLab/CANOpenRobotController)** stack
 
 In completing my undergrad degree, I will study for a semester in an exchange program at the **Technical University of Munich**, Germany.
 
@@ -14,12 +14,12 @@ During this time, I hope to explore the robotics industry in Europe and discover
 
 ## My interests...
 
-- 💻 Programming in C/C++
+- 💻 Programming in C/C++ (and trying Rust)
 
 - 🧠 Machine learning & neural networks
 
-- 🖥️ Linux customisation
+- 🖥️ Integrating Nix into development workflow
 
 - ✈️ Travelling overseas
 
-I am also developing a collection of minimal C++ robotics libraries with ROS2 compatibility. If you would like, you can check them out here (TODO).
+Check out my Nix flake configuration in the `snow` repository for my custom Linux build using NixOS and Home Manager!
