@@ -2,24 +2,18 @@
 
 - 📜 Mechatronics engineering student at **The University of Queensland**, Australia
 
-- ⚙️ Robotics engineer for the **[ExoMotus](https://www.fftai.com/exomotus-m4-2/)** exoskeleton project ([NRM-group](https://github.com/NRM-group), 2022)
+- 💼 Robotics engineering intern at **Carl ZEISS AG**, Germany
 
-- 🤖 **[Robot Operating System 2](https://docs.ros.org/en/foxy/index.html)** enthusiast
+- ⚙️ Former roboticist at **The University of Queensland** for the [Neuro-Rehabilitation & Medical robotics lab](https://github.com/NRM-group)
 
-- 🤝 Instigator for implementing ROS2 in the **[CAN Open Robot Controller](https://github.com/UniMelbHumanRoboticsLab/CANOpenRobotController)** stack
-
-In completing my undergrad degree, I will study for a semester in an exchange program at the **Technical University of Munich**, Germany.
-
-During this time, I hope to explore the robotics industry in Europe and discover my career pathways before graduating with a Master of Engineering in 2024.
+In continuation of my exchange studies at the **Technical University of Munich**, Germany, I will intern as a robotics engineer at **Carl ZEISS AG**. This will hopefully extend to a master's thesis before returning and graduating from **The University of Queensland**.
 
 ## My interests...
 
-- 💻 Programming in C/C++ (and trying Rust)
+- 💻 Programming in C/C++ (with Nix workflow)
 
-- 🧠 Machine learning & neural networks
+- 🧠 Machine learning, neural networks and control theory
 
-- 🖥️ Integrating Nix into development workflow
+- ✈️ Travelling abroad!
 
-- ✈️ Travelling overseas
-
-Check out my Nix flake configuration in the `snow` repository for my custom Linux build using NixOS and Home Manager!
+Check out my Nix flake configuration in the `snow` repository for NixOS and Home-Manager builds.
