@@ -16,4 +16,4 @@ In continuation of my exchange studies at the **Technical University of Munich**
 
 - ✈️ Travelling abroad!
 
-Check out my Nix flake configuration in the `snow` repository for NixOS and Home-Manager builds.
+Check out my Nix flake configuration in the `snowflake` repository for NixOS and Home-Manager builds.
