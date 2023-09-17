@@ -1,10 +1,10 @@
 ## About me...
 - 📜 Mechatronics engineering student at **The University of Queensland**, Australia
 - 💼 Robotics engineering intern at **Carl ZEISS AG**, Germany
-- ⚙️ Former roboticist at **The University of Queensland**
+- ⚙️ ROS2 and Nix enthusiast
 
 ## My interests...
-- 💻 Programming in C/C++ with Nix workflow
+- 💻 C/C++ programming with Nix workflow
 - 🧠 Machine learning & neural networks
 - ✈️ Travelling overseas
 
