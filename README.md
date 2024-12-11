@@ -1,11 +1,10 @@
 ## About me...
 
-- 📜 Mechatronics engineering student at **The University of Queensland**, Australia
-- 💼 Robotics engineering intern at **Carl Zeiss AG**, Germany
-- ⚙️ ROS2 and Nix enthusiast
+- 📜 Current mechatronic engineering student at **The University of Queensland**, Australia
+- ✈️ Former exchange student at the **Technical University of Munich**, Germany
+- 💼 Former Digital Twin Developer at **Carl Zeiss AG**, Germany
+- 🥼 Former Robotics Engineer at the **Neuro-Rehabilitation and Medical Robotics** lab, UQ
 
 ## My projects...
 
-- 🏠 NixOS + Home Manager flakes
-- 🎮 Game engine design in Vulkan
-- 🧠 Machine learning for various AI models
+- 🏠 Ricing in NixOS + Home Manager using flakes
